@@ -148,3 +148,23 @@
   }
 
 }
+
+#ad2{
+  background-image: url('http://res.cloudinary.com/dmz79kgf0/image/upload/v1507069488/airplane_pm9v0w.jpg');
+  background-size: 100%;
+  color: #FEFEFE;
+  text-align: center;
+  padding: 40px;
+}
+
+.bookdiv{
+  background-color: #3DE383;
+  width: 100%;
+  color: #FEFEFE;
+  text-align: center;
+  padding: 15px;
+}
+
+.bookdiv:hover{
+  text-decoration: none;
+}
